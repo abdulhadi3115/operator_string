@@ -1,3 +1,3 @@
 <?php
-echo strlen("Hello");
+echo strlen("Hello aku disini");
 ?>
